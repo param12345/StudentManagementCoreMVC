@@ -2,5 +2,5 @@ Add-Migration Ident -context ApplicationDbContext
 Add-Migration Stud - context StudentManagementCoreMVCContext
 
 
-Update-Database -context Ident
-Update-database -context Stud
+Update-Database  Ident -context ApplicationDbContext
+Update-database  Stud - context StudentManagementCoreMVCContext
