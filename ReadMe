@@ -3,4 +3,4 @@ Add-Migration Stud - context StudentManagementCoreMVCContext
 
 
 Update-Database  Ident -context ApplicationDbContext
-Update-database  Stud - context StudentManagementCoreMVCContext
+Update-Database  Stud - context StudentManagementCoreMVCContext
